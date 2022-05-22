@@ -37,9 +37,9 @@ dependencies:
   # record microphone
   flutter_sound: ^9.1.9
   # request microphone
-  permission_handler: ^9.2.0
+  permission_handler:
   # for file saving
-  path_provider: ^1.6.14
+  path_provider:
 
 dev_dependencies:
   flutter_test:
